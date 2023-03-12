@@ -1,0 +1,21 @@
+.div-register {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vH;
+
+}
+
+.form-register {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    border: solid 1px;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+p{
+    display: flex;
+    max-width: 250px;
+}

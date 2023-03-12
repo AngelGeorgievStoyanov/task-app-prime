@@ -1,0 +1,10 @@
+.card-employee{
+    display: flex;
+    flex-direction: column;
+    border: solid 1px;
+    height: fit-content;
+    width: fit-content;
+    padding: 20px;
+    margin: 20px;
+    
+}

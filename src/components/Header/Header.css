@@ -1,0 +1,27 @@
+.nav-header{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.nav-ul{
+    display: flex;
+   
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.nav-li{
+    margin: 10px;
+    padding: 3px;
+    list-style-type: none;
+    color: white;
+    cursor: pointer;
+}
+
+
+.nav-ul > li >a {
+    color: white;
+    text-decoration: none;
+}
